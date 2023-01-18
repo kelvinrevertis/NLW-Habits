@@ -1,5 +1,4 @@
 import './styles/global.css';
-import './App.css'
 import { Habit } from './components/Habit'
 
 function App() {
